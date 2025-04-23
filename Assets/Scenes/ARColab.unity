@@ -10625,7 +10625,7 @@ MonoBehaviour:
   - {fileID: 3283057886132133938, guid: 4011810787d804accb7150e0d1123620, type: 3}
   - {fileID: 960811725802649730, guid: 409b0d580be8c4a1b93c054fafaaf4d1, type: 3}
   spawnedObjectList: []
-  arType: 1
+  arType: 0
 --- !u!1 &848451115
 GameObject:
   m_ObjectHideFlags: 0
@@ -18693,6 +18693,8 @@ MonoBehaviour:
   playerName: 
   gamePlayType: 0
   joinedGame: 0
+  checkInternetTimerMax: 5
+  checkInternetTimer: 0
 --- !u!1 &1571489958
 GameObject:
   m_ObjectHideFlags: 0

@@ -74,7 +74,6 @@ namespace Multi
                 checkInternetTimer = 0;
                 StartCoroutine(CheckInternet());
             }
-            
         }
 
         public async Task startUnityServices()
