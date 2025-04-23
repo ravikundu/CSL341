@@ -217,7 +217,7 @@ namespace Multi
             instanceNetworkObject.SpawnWithOwnership(rpcParams.Receive.SenderClientId);
             //instance.transform.SetParent(main.arColab.marker.transform);
             //instance.transform.position = Vector3.zero;
-            instance.transform.position = main.arColab.marker.transform.position + new Vector3(0,0.25f,0);
+            instance.transform.position = main.arColab.marker.transform.position + new Vector3(0, 0.25f, 0);
             main.arColab.spawnedObjectList.Add(instance);
         }
     }

@@ -10612,7 +10612,7 @@ MonoBehaviour:
   mm: {fileID: 1560588275}
   markerPrefab: {fileID: 2609269702539915073, guid: bd42c42f705e2427996dba48d7d487be, type: 3}
   marker: {fileID: 0}
-  aRRaycastManager: {fileID: 0}
+  aRRaycastManager: {fileID: 23140439}
   ArColabUI: {fileID: 1877055101}
   mainUI: {fileID: 1239103566}
   playerList: {fileID: 1599094025}
@@ -10625,7 +10625,7 @@ MonoBehaviour:
   - {fileID: 3283057886132133938, guid: 4011810787d804accb7150e0d1123620, type: 3}
   - {fileID: 960811725802649730, guid: 409b0d580be8c4a1b93c054fafaaf4d1, type: 3}
   spawnedObjectList: []
-  arType: 0
+  arType: 1
 --- !u!1 &848451115
 GameObject:
   m_ObjectHideFlags: 0
